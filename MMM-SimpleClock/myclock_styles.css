@@ -1,0 +1,11 @@
+.region.middle.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.clock{
+    font-size: 120px;
+    border: 1px solid rgb(151, 82, 168);
+    padding: 20px 0px 20px 0px;
+}
