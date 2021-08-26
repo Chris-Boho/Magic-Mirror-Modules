@@ -2,7 +2,7 @@ Module.register("MMM-SimpleWeather", {
     defaults: {},
     start: function () {
         console.log("THE SIMPLE WEATHER MODULE IS STARTING!!!!");
-        this.appID = "9ee6f6cb32f0d62f32fb20f5b7ea1634";
+        this.appID = "ENTER OPEN WEATHER API KEY HERE";
         this.city = "miami";
         this.units = "imperial";
         this.location_city = null;
